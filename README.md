@@ -63,11 +63,4 @@ Cryptocurrency-Time-Series-Forecasting/
 ## Conclusion
 This project demonstrates practical implementation of Time Series Forecasting combined with Business Intelligence visualization tools. It integrates Data Science modeling with Power BI analytics for better financial insights.
 
----
-## Dashboard Preview
 
-![Overview](screenshots/dashboard1.png)
-
-![Seasonality and monthly pattern](screenshots/dashboard2.png)
-
-![Daily return and price change analysis](screenshots/dashboard3.png)
